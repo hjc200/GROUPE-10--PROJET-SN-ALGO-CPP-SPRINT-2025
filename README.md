@@ -20,6 +20,7 @@ Chaque groupe doit :
   - docs/ pour la documentation
 
 ### Exemple :
+
 projets/
 └── groupe01/
     ├── algo/
@@ -32,6 +33,7 @@ projets/
 ---
 Merci de respecter cette organisation pour faciliter la correction.
 Merci de respecter cette structure pour garder le dépôt propre et faciliter la correction.
-En cas de souci, contactez 
+En cas de souci, contactez
+
 [@JoNathan-Browser](https://github.com/JoNathan-Browser)
 [WhatsApp](https://wa.me/237688038966
