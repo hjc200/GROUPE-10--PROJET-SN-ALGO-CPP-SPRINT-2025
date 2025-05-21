@@ -11,7 +11,7 @@ Chaque étudiant ou groupe doit créer un dossier à son nom et y déposer son c
 
 1. *Fork* ce dépôt (en haut à droite sur GitHub)
 2. *Clone* ton fork sur ton ordinateur
-3. Dans le dossier projets/, crée un sous-dossier avec ton nom (ex. projets/dupont_ahmed/)
+3. Dans le dossier projets/, crée un sous-dossier avec ton du projet (ex. projets/vente/)
 4. Ajoute tes fichiers dans :
    - code/ : ton code source
    - docs/ : ta documentation
@@ -19,5 +19,5 @@ Chaque étudiant ou groupe doit créer un dossier à son nom et y déposer son c
 6. Reviens sur GitHub et fais une *Pull Request* pour qu’on intègre ton projet dans le dépôt principal
 
 ---
-
-## Structure attendue
+Merci de respecter cette structure pour garder le dépôt propre et faciliter la correction.
+En cas de souci, contactez [@JoNathan-Browser](https://github.com/JoNathan-Browser)
