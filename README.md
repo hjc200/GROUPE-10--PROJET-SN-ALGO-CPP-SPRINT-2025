@@ -1,23 +1,37 @@
 # SN-ALGORITHME-SPRINT-2025
 
-Bienvenue sur le dépôt officiel des projets de l’*Algorithme Sprint 2025*.
+Bienvenue sur le dépôt officiel des projets de l’*Algorithme et c++ Sprint 2025*.
 
-Ce dépôt centralise tous les projets réalisés par les étudiants de la classe.  
-Chaque étudiant ou groupe doit créer un dossier à son nom et y déposer son code + documentation.
-
----
-
-## Comment déposer son projet
-
-1. *Fork* ce dépôt (en haut à droite sur GitHub)
-2. *Clone* ton fork sur ton ordinateur
-3. Dans le dossier projets/, crée un sous-dossier avec ton du projet (ex. projets/vente/)
-4. Ajoute tes fichiers dans :
-   - code/ : ton code source
-   - docs/ : ta documentation
-5. *Push* tes changements sur ton fork
-6. Reviens sur GitHub et fais une *Pull Request* pour qu’on intègre ton projet dans le dépôt principal
+Ce dépôt centralise tous les projets réalisés par les groupes de la classe.  
+Chaque groupe doit créer un dossier au numero du groupe et y déposer ses deux projet avec le code + documentation.
 
 ---
+
+## Structure du dépôt
+Ce dépôt contient les projets d’Algorithmique et de C++ des 20 groupes.
+
+Chaque groupe doit :
+- Créer un dossier groupeXX/ (ex. groupe07)
+- Y déposer :
+  - un dossier algo/ pour le projet d’algorithmique
+  - un dossier cpp/ pour le projet en langage C++
+- Dans chaque projet :  
+  - code/ pour le code source  
+  - docs/ pour la documentation
+
+### Exemple :
+projets/
+└── groupe01/
+    ├── algo/
+    │   ├── code/
+    │   └── docs/
+    └── cpp/
+        ├── code/
+        └── docs/
+
+---
+Merci de respecter cette organisation pour faciliter la correction.
 Merci de respecter cette structure pour garder le dépôt propre et faciliter la correction.
-En cas de souci, contactez [@JoNathan-Browser](https://github.com/JoNathan-Browser)
+En cas de souci, contactez 
+[@JoNathan-Browser](https://github.com/JoNathan-Browser)
+[WhatsApp](https://wa.me/237688038966
